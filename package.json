@@ -1,0 +1,17 @@
+{
+    "name": "aoijs-leref-template",
+    "version": "1.0.0",
+    "description": "A starter template for aoi.js + music",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "engines": {
+        "node": "16.x"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "@akarui/aoi.panel": "^0.0.3",
+        "aoi.js": "^5.5.5"
+    }
+}

@@ -1,0 +1,26 @@
+#Done
+{
+ "quote": "life",
+ "upvotes": 2,
+ "api": ""
+}
+#Done
+{
+ "hex": "140600",
+ "name": "Nero",
+ "image": "https://api.popcat.xyz/color/image/140600",
+"api": "https://api.popcat.xyz/randomcolor"
+}
+#welcome card
+{
+  "api": "https://api.popcat.xyz/welcomecard?background=https://cdn.discordapp.com/attachments/850808002545319957/859359637106065408/bg.png&text1=Zero%20Two&text2=Welcome+To+Pop+Cat+Community&text3=Member+219&avatar=https://cdn.discordapp.com/embed/avatars/0.png"
+}
+#Done
+{
+ "title": "So true",
+ "url": "https://reddit.com/r/Memes_Of_The_Dank/comments/xdynav/so_true/",
+ "image": "https://i.redd.it/fs3v0yb80tn91.jpg",
+ "upvotes": "52",
+ "comments": "0",
+  "api": "https://api.popcat.xyz/meme"
+} //today projects
